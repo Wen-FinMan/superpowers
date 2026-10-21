@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "computedAt": "2026-10-21T17:26:53.331Z",
+  "fingerprint": {
+    "gitHead": "b739a8af570e10a95898f2bdf6cec97467fa6c12",
+    "skillsHash": "54a06466161ec97c066a7a747bab69355f182367c7735884389c36ad2d31c39b",
+    "attributionHash": "1792603593015.2715:186|missing"
+  },
+  "skillAuthors": [],
+  "teamEconomics": {
+    "workspaceCostUsd": 0,
+    "estimatedMinutesSaved": 0,
+    "estimatedValueUsd": 0,
+    "netRoi": 0,
+    "netRoiBand": "LOW",
+    "skillCount": 0,
+    "byRepo": [],
+    "bySkillOwner": []
+  }
+}

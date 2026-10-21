@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "profileType": "team-multi-agent",
+  "detectedFrom": {
+    "gitRemotes": [
+      "https://github.com/obra/superpowers.git"
+    ],
+    "teamSize": "solo",
+    "aiTools": [
+      "claude"
+    ],
+    "budgetPattern": "none",
+    "hasSharedClaudeSkills": false,
+    "isGitRepo": true,
+    "branchCount": 1,
+    "trackedFileCount": 237,
+    "repoSizeKb": 8,
+    "commitsLast30d": 3,
+    "commitsTotal": 685,
+    "projectAgeDays": 0,
+    "authorCount30d": 1,
+    "activityLevel": "low",
+    "hasAidlcWorkflow": false,
+    "hasPendingProfileInit": false,
+    "remoteReachable": true,
+    "remoteOriginUrl": "https://github.com/obra/superpowers.git",
+    "remoteBranchCount": 154,
+    "remoteAuthors30d": 1,
+    "upstreamAhead": 0,
+    "upstreamBehind": 0,
+    "remoteProbeSource": "remote-tracking"
+  },
+  "enabledFeatures": {
+    "autoOptimizer": true
+  },
+  "costTracking": "full",
+  "confidence": 0.85,
+  "detectedAt": "2026-10-21T17:26:39.068Z",
+  "appliedAt": "2026-10-21T17:26:39.068Z",
+  "rationale": "Git analysis: 237 tracked files, 154 branches (1 local, 154 remote), 685 commits (3 last 30d), 1 author (30d), low activity, ~8 KB git objects. Remote git (https://github.com/obra/superpowers.git): 154 remote branches, 1 remote author (30d), via cache. Collaborative or multi-branch product — full sync and attribution."
+}

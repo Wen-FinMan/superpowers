@@ -1,0 +1,14 @@
+{
+  "name": "Claude Skills — budget watch",
+  "description": "Managed by Claude Skills Manager (claude-skills-budget)",
+  "version": "1",
+  "enabled": true,
+  "when": {
+    "type": "promptSubmit"
+  },
+  "then": {
+    "type": "runCommand",
+    "command": "curl -sf -X POST -H \"Content-Type: application/json\" --data @- \"http://127.0.0.1:54613/hook/budget?agent=kiro&cwd=c%3A%5CUsers%5CASUS%5CDocuments%5CGitHub%5Csuperpowers\" || true",
+    "timeout": 8
+  }
+}
